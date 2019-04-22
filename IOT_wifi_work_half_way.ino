@@ -7,11 +7,11 @@
 
 String HOST = "184.106.153.149";
 String PORT = "80";
-String AP = "Xiaomi_9727";
-String PASS = "AP004477";
+String AP = "NETWORK NAME";
+String PASS = "NEYWORK PASSWORD";
 
 
-String API = "R5V7MGZ3T06XG2B1";
+String API = "API KEY";
 String field = "field1";
 
 int countTrueCommand;
